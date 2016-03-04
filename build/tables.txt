@@ -1,4 +1,5 @@
 ps_audit
+ps_banned_ip
 ps_db_changes
 ps_folded_codes
 ps_inflects
